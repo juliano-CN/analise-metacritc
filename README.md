@@ -9,4 +9,4 @@
  - metascore: média das notas dos críticos
 
   O objetivo desta análise é descobrir se existe uma correlação entre as notas dos críticos e usuários.
-  O arquivo "MetacriticData.csv" é a planilha dos dados, o arquivo "análise.ipynb" é a análise dos dados e também tem o dashboard com um resumo dos gráficos podendo filtrar os resultados por ano e plataforma.
+  O arquivo "MetacriticData.csv" é a planilha dos dados, o arquivo "análise.ipynb" é a análise dos dados e também tem o dashboard com um resumo dos gráficos podendo filtrar os resultados por ano e plataforma que pode ser acessado no [link](https://gcqrxhzjkdpv23sqp7x9re.streamlit.app).
